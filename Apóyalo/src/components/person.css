@@ -1,0 +1,12 @@
+.card {
+    background-color: #FF407D;
+    border-radius: 10px;
+    padding: 0px 10px 0px 10px;
+    margin: 10px;
+    border: solid 5px #FFCAD4;
+}
+
+p {
+    display: block;
+    font-weight: 800;
+}
